@@ -1,2 +1,2 @@
 # bookbot
-git project
+git project to practice terminal pushing and simple text manipulation 
